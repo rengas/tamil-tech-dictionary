@@ -1,7 +1,7 @@
 # T
 Task - பணி\
 Technopreneur - தொழில்நுட்பத் தொழில்முனைவர்\
-Telecom exchange : தொலைத்தொடர்பு இணைப்பகம்
+Telecom exchange : தொலைத்தொடர்பு இணைப்பகம்\
 Tachometer - சுழற்சிமானி, சுழற்சி அளவி
 Tangent - தொடுகோடு
 Tank circuit - தொட்டிச் சுற்று

@@ -4,8 +4,9 @@
 # மேற்கோள்கள்
 ### [வளர்தமிழ் இயக்கம்](https://www.languagecouncils.sg/tamil/en/-/media/tlc/files/english-to-tamil-glossary-book.pdf?la=en)
 
-### [எழில்] (https://github.com/Ezhil-Language-Foundation/open-tamil/blob/5eb9fb1447fe021ca47e2cc4605f7111e6b1088f/solthiruthi/data/engineeringwords.txt)
+### [எழில்](https://github.com/Ezhil-Language-Foundation/open-tamil/blob/5eb9fb1447fe021ca47e2cc4605f7111e6b1088f/solthiruthi/data/engineeringwords.txt)
 ### [Meaning Guru](https://www.meaningguru.com/en-ta/)
+
 
 # TODO
 1. Write script to Order words inside each letter properly.

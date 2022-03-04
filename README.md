@@ -1,4 +1,4 @@
-# தமிழ் அறிவியல்,பொறியியல் மற்றும் தொழில்நுட்ப அகராதி
+# அறிவியல்,பொறியியல் மற்றும் தொழில்நுட்ப அகராதி
 
 
 # மேற்கோள்கள்
@@ -8,6 +8,7 @@
 ### [Meaning Guru](https://www.meaningguru.com/en-ta/)
 
 # TODO
-1. Write scripts to Order words inside each letter properly.
-2. Write scripts to send to postgres database.
+1. Write script to Order words inside each letter properly.
+2. Write script to send to postgres database.
 3. Setup a website to let users search for words.
+4. Write API for others to acess the words.

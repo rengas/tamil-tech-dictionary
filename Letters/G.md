@@ -19,3 +19,4 @@ Ground current - நிலஓட்டம்\
 Ground plane - நிலத் தளம்\
 Ground wave - நிலஅலை\
 Ground wire - நிலக் கம்பி\
+General Purpose Programming Language - பொருள் நோக்கு நிரலாக்க மொழி\

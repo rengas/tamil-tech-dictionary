@@ -23,3 +23,4 @@ Oscillation - அலைவு\
 Oscilloscope - அலை(வு)நோக்கி\
 Overflow - வழிவு\
 Overshoot - மேல்பாய்வு\
+ 

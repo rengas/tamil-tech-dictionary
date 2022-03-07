@@ -17,6 +17,7 @@ Master clock - முதன்மைக் கடிகாரம்\
 Mass storage - திரள் சேமிப்பகம்\
 Math coprocessor - கணித இணைச்செயலி\
 Matrix - அணி\
+Memory - நினைவகம்\
 Memory address - நினைவக முகவரி\
 Memory allocation - நினைவக ஒதுக்கீடு\
 Metal layer - உலோக அடுக்கு\

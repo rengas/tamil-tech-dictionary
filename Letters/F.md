@@ -35,3 +35,4 @@ Function (subroutine, subprogram) - துணைநிரல்\
 Functionality - செயல்கூறு\
 Fuse - உருகி\
 Fuzzy logic - இடைநிலை தருக்கம், இடைநிலை ஏரணம்\
+Fraction - பின்னம்

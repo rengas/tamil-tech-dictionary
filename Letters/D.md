@@ -42,3 +42,4 @@ Dish antenna - அலைக்கம்பா\
 Double-stub (impedence) matching - இருமுளை (மின் மறுப்புப்) பொறுத்தம்\
 Driver (software) - இயக்கமென்பொருள்\
 Dynamo - மின்னாக்கி\
+Decimal - பதின்மம்\

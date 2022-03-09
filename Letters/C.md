@@ -74,3 +74,5 @@ Crystal oscillator - படிக அலைவி/அலைப்பி\
 Cube - கன சதுரம்\
 Current - மின்னோட்ட்ம், ஓட்டம்\
 Cyclotron - சுழற்சியலைவி\
+Complex Number - கலப்பெண்\
+Computation - கணக்கீடு\

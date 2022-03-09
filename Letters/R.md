@@ -50,3 +50,4 @@ Rise time - எழுநேரம்\
 Rising edge - எழுவிளிம்பு\
 Rotation - சுழற்சி\
 Rotor - சுற்றகம்\
+Real Number - மெய்யெண்\

@@ -15,3 +15,4 @@ Noise resistance - இரைச்சல் மின்தடை\
 Noise suppression - இரைச்சல் நீக்கம்\
 Nand gate - இல்-உம்மை வாயில்\
 Navigational aid (=navaid) - வழிகாணுதவி - பார்வை அல்லது தரவு மூலமாக விமானப் பாதையை தெரிவிக்கும் தரை அல்லது வானமைந்த கருவி\
+Natural number - இயல் எண்\

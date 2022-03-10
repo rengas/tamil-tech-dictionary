@@ -51,3 +51,4 @@ Iron loss - இறும்பு இழப்பு\
 Isa - industry standard architecture - தொழிலக நெறிக் கட்டமைப்பு\
 Irrational Number - விகிதமுறா எண்\
 Infinity - முடிவிலி\
+Interface - இடைமுகம்\
